@@ -37,7 +37,7 @@
     "snarkdown": "^2.0.0",
     "superagent": "^7.1.1",
     "superagent-promise": "^1.1.0",
-    "xss": "^1.0.9"
+    "xss": "^1.0.14"
   },
   "scripts": {
     "start": "cross-env PORT=4100 react-scripts start",
