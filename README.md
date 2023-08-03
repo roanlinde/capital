@@ -214,7 +214,7 @@ Thanks
 This project was created at Checkmarx by [Ravid Mazon](https://www.linkedin.com/in/ravid-mazon) with the help of these great contributors: 
 [Liad Levy](https://www.linkedin.com/in/liad-levy-93b235211/),
 [Yaniv Nizry](https://www.linkedin.com/in/yaniv-n-8b4a76193/), 
-[Guy Lyuboshits](https://www.linkedin.com/in/guy-lyuboshits-075175165/)
+[Guy Lyuboshits](https://www.linkedin.com/in/guy-lyuboshits-075175165/)    
 
 The application was built base on ``real-world-app`` , we used these awesome repos: <br>
 <a href="https://github.com/nsidnev/fastapi-realworld-example-app" target="_blank">Backend - FastAPI (Python)</a>  <br>
